@@ -21,6 +21,7 @@ public class Actime {
 	@Then("User is navigated to Home page")
 	public void user_is_navigated_to_home_page() {
 	     System.out.println("How are you ");
+		System.out.println("How");
  	}
 
 }
